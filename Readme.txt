@@ -5,7 +5,7 @@
 Download APK for android in android folder
 - Enable installation from unknown sources 
 
-Download whole PC folder for PC
+Download whole Win10 folder for Windows
 -  run FlappyWyvern.exe
 
 ============================================================
